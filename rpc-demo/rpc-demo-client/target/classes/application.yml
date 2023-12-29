@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+rpc:
+  rpcPort: 18080
+  rpcHost: 127.0.0.1
